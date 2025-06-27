@@ -20,3 +20,11 @@ function ObtenerValor(){
 
 
 }
+
+
+function cambiarestilos(){
+
+    $("contenedor")
+
+
+}
